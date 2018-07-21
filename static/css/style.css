@@ -1,1 +1,5 @@
 h1 { color:red; }
+
+.djangotwo {
+   border: 2px solid black;
+}
