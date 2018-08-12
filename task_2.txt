@@ -1,0 +1,4 @@
+Django - Challenge Task
+* Create a templates directory and connect it to the settings.py file
+* Create a new view called help and use girl mapping to render it for any page tie the extension /help
+* Add template tags to return “Help Page"
