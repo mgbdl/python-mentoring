@@ -1,0 +1,6 @@
+Django - Challenge Task
+* Create a New Django Project: “Pro Two"
+* Create a New Django App: “AppTwo"
+* Create an Index View that returns:
+    * <em>My Second App</em>
+* Link this view to the url.py file
